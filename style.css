@@ -1,0 +1,53 @@
+h1 {font-size: 58px;
+    margin: 35px;
+
+}
+
+.cabecalho{
+    display: grid;
+    grid-template-columns: auto auto auto ;
+    
+}
+
+.cabecalho > header {
+    background-color:    #BB86FC;
+    border: 1px solid white;
+    color: white;
+    font-size: 35px;
+
+}
+
+.cabecalho > div {
+    background-color: #424250;
+    border: 1px solid white;
+    color: white;
+    font-size: 35px;
+
+}
+
+h2 {font-size: 58px;
+    margin: 35px;
+
+}
+
+.cabecalho2{
+    display: grid;
+    grid-template-columns: auto auto;
+    
+}
+
+.cabecalho2 > header {
+    background-color: #00C4B4;
+    border: 1px solid white;
+    color: white;
+    font-size: 35px;
+
+}
+
+.cabecalho2 > div {
+    background-color: #424250;
+    border: 1px solid white;
+    color: white;
+    font-size: 35px;
+
+}
